@@ -18,3 +18,4 @@ print(int(a) + int(b))
 c = 1.9
 d = 8
 print(c + d)
+print(c + d)
