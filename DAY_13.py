@@ -65,4 +65,7 @@ print(s.startswith("Python"))
 t = "Python is a Interpreted Language"
 print(t.startswith("Python"))
 
+t = "Python is a Interpreted Language"
+print(t.startswith("Python"))
+
 
