@@ -27,5 +27,11 @@ print(ep1)
 # Deleting item
 # del ep1[122]
 
+# Looping 
+ep1 = {122 : 45, 123 : 89, 567 : 69, 670 : 69}
+for i in ep1:
+    print(i)
 
+for i in ep1:
+    print(ep1[i])
 
