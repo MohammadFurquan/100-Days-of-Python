@@ -73,7 +73,7 @@ cd Day1
 ```bash
 python Day_1.py
 ```
-Replace Day1 and Day1.py with the appropriate directory and script name for other files.
+Replace Day1 and Day_1.py with the appropriate directory and script name for other files.
 
 ## Contribution 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or new features.
