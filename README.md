@@ -71,7 +71,7 @@ cd Day1
 2. **Run the script:**
 
 ```bash
-python Day1.py
+python Day_1.py
 ```
 Replace Day1 and Day1.py with the appropriate directory and script name for other files.
 
